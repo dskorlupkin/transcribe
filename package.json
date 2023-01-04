@@ -18,7 +18,7 @@
     "commands": [
       {
         "command": "transcribe.transcribe",
-        "title": "Transcibe selected text"
+        "title": "Transcribe selected text"
       }
     ]
   },

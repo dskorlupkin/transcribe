@@ -1,6 +1,8 @@
 # transcribe README
 
-This is the README for your extension "transcribe". After writing up a brief description, we recommend including the following sections.
+*Transcribe* Visual Studio Code extension.
+
+Расширение предназначено для исправления ошибочной кодировки (RUS/ENG) "йцукен"<->"qwerty" выделенного фрагмента текста (как PuntoSwitcher, Keyboard Ninja)
 
 ## Features
 
