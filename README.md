@@ -2,6 +2,8 @@
 
 *Transcribe* Visual Studio Code extension.
 
+Copyright (c) 2023 Dmitry Skorlupkin. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Расширение предназначено для исправления ошибочной кодировки (RUS/ENG) "йцукен"<->"qwerty" выделенного фрагмента текста (как PuntoSwitcher, Keyboard Ninja)
 
 ## Features

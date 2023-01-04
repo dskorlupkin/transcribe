@@ -14,6 +14,7 @@
     "type": "git",
     "url": "https://github.com/dskorlupkin/transcribe"
   },
+  "license": "See LICENSE file",
   "activationEvents": [
     "onCommand:transcribe.transcribe"
   ],
