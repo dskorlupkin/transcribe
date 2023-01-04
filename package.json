@@ -1,5 +1,5 @@
 {
-  "name": "ranscribe",
+  "name": "transcribe",
   "displayName": "Transcribe",
   "description": "Transcibe VSCode extension will recode wrong keyboard layout (ENG/RUS) qwerty<->йцукен",
   "publisher": "Daemych",
@@ -10,6 +10,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dskorlupkin/transcribe"
+  },
   "activationEvents": [
     "onCommand:transcribe.transcribe"
   ],
