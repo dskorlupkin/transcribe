@@ -8,7 +8,7 @@
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
-![Example 1](transcribe-01.gif)
+![Example 1](transcribe-sample-01.gif)
 
 For example if there is an image subfolder under your extension project workspace:
 
